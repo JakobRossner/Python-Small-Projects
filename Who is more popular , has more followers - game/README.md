@@ -10,6 +10,10 @@ You get a point for each correct answer.
 
 It is game over if you guess incorrect.
 
+## Screenshot
+
+![alt text](https://raw.githubusercontent.com/JakobRossner/Python-Small-Projects/main/Who%20is%20more%20popular%20%2C%20has%20more%20followers%20-%20game/Screenshot_higherlower_game_1.JPG)
+
 ## Changelog
 
 Dec 30th 2022
